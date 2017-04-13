@@ -1,4 +1,4 @@
-# gitlab-migration
+# How to smoothly migrate between different versions of GitLab
 
 # First step: clone from the old repo  
 git clone old_repository_URL  

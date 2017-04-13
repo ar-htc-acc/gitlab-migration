@@ -1,7 +1,7 @@
 # gitlab-migration
 
 # First step: clone from the old repo  
-git clone old_repository_URL  
+git clone old_repository_URL  
 cd demo  
 git remote rename origin upstream  
 git remote add origin new_repository_URL  
